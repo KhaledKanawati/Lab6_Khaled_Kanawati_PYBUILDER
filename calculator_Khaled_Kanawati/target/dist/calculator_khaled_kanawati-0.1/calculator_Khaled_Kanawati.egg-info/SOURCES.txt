@@ -1,0 +1,8 @@
+setup.py
+calculator_Khaled_Kanawati/__init__.py
+calculator_Khaled_Kanawati.egg-info/PKG-INFO
+calculator_Khaled_Kanawati.egg-info/SOURCES.txt
+calculator_Khaled_Kanawati.egg-info/dependency_links.txt
+calculator_Khaled_Kanawati.egg-info/namespace_packages.txt
+calculator_Khaled_Kanawati.egg-info/top_level.txt
+calculator_Khaled_Kanawati.egg-info/zip-safe
